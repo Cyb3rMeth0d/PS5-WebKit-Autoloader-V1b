@@ -235,7 +235,7 @@ d130aa0b0f3a12b106ccdcf6ccd398f1bf93bcc2579513d8fac7e784a32a1231
 
 ## Créditos
 
-- **Cyb3rmeth0d** — rebranding, diseño del instalador, logo e icono.
+- **Cyb3rmeth0d** — Rebranding integral (logo e icono), diseño de interfaz para el instalador, optimizaciones de rendimiento y mejoras de estabilidad para mitigar crasheos del sistema.
 - **jordyidk** y colaboradores — [slopkit (Poops)](https://github.com/jordyidk/slopkit).
 - **soniciso1**, **ntfargo** y colaboradores — [Relapse](https://github.com/soniciso1/relapse).
 - **notmaj0r** — [porte Lua de Relapse](https://github.com/notmaj0r/remote_lua_loader).
