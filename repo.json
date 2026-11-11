@@ -1,0 +1,20 @@
+{
+  "name": "Cyb3rmeth0d - WebKit Autoloader",
+  "icons_url": "https://raw.githubusercontent.com/Cyb3rMeth0d/PS5-WebKit-Autoloader-v1b-Cyb3rMeth0d/main/pldmgr-repo/icons.json",
+  "payloads": [
+    {
+      "id": "webkit-autoloader",
+      "name": "WebKit Autoloader V.1b By Cyb3rmeth0d",
+      "filename": "webkit-autoloader-installer_v1b.elf",
+      "url": "https://raw.githubusercontent.com/Cyb3rMeth0d/PS5-WebKit-Autoloader-v1b-Cyb3rMeth0d/main/pldmgr-repo/webkit-autoloader-installer_v1b.elf",
+      "description": "Instalador del WebKit Autoloader para PS5 (FW 7.00-13.60). Crea la app en la pantalla de inicio y el autoload por USB.",
+      "version": "V.1b",
+      "last_update": "2026-11-11",
+      "category": "Instaladores",
+      "checksum": "d130aa0b0f3a12b106ccdcf6ccd398f1bf93bcc2579513d8fac7e784a32a1231",
+      "author": "Cyb3rmeth0d",
+      "icon_key": "webkit-autoloader",
+      "source": "https://github.com/Cyb3rMeth0d?tab=repositories"
+    }
+  ]
+}
